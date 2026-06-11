@@ -54,7 +54,7 @@ Tahapan yang dilakukan dalam proyek ini meliputi:
 ├── data/                   # Dataset citra iris
 ├── classification/         # Pelatihan Model
     ├── MobileNetV2
-    ├──SVM
+    ├── SVM
 ├── results/                # Hasil pengujian dan visualisasi
 └── README.Rmd
 ```
