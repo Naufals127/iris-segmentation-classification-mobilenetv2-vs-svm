@@ -1,10 +1,8 @@
 # iris-segmentation-classification-mobilenetv2-vs-svm
 Digital-Image-Processing-Project
 ---
-Judl: "Segmentasi dan Klasifikasi Citra Iris menggunakan MobileNetV2 vs SVM"
-author: "Guntoro Satriaji, Naufal Shalih, Indah Faizah Salsabillah Ramdhany Wadjo"
-date: "`r Sys.Date()`"
-output: github_document
+Judul Penelitian: "Segmentasi dan Klasifikasi Citra Iris menggunakan MobileNetV2 vs SVM"
+Author: "Guntoro Satriaji, Naufal Shalih, Indah Faizah Salsabillah Ramdhany Wadjo"
 ---
 
 ## Gambaran Umum Proyek
