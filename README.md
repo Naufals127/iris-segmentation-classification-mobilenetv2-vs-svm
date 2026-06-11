@@ -2,7 +2,9 @@
 Digital-Image-Processing-Project
 ---
 Judul Penelitian: "Segmentasi dan Klasifikasi Citra Iris menggunakan MobileNetV2 vs SVM"
+
 Author: "Guntoro Satriaji, Naufal Shalih, Indah Faizah Salsabillah Ramdhany Wadjo"
+
 Link Dataset: https://www.kaggle.com/datasets/naureenmohammad/mmu-iris-dataset
 ---
 
